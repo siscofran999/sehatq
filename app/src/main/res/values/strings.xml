@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SehatQ</string>
+    <string name="label_login">LOGIN</string>
+    <string name="label_user">Username</string>
+    <string name="label_pass">Password</string>
+    <string name="label_remember">Remember Me</string>
+    <string name="label_sign_in">Sign In</string>
+    <string name="facebook_app_id">794366447578204</string>
+    <string name="home">Home</string>
+    <string name="feed">Feed</string>
+    <string name="cart">Cart</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="label_purchase_history">Purchase History</string>
+    <string name="label_logout">Logout</string>
+    <string name="share">Share</string>
+    <string name="buy">Buy</string>
+
+</resources>
